@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label Content="BIBLIOTECA COMUNITARIA" HorizontalAlignment="Left" Height="81" Margin="272,10,0,0" VerticalAlignment="Top" Width="424"/>
+        <Button Content="Autores" HorizontalAlignment="Left" Height="62" Margin="272,91,0,0" VerticalAlignment="Top" Width="154"/>
+        <Button Content="Editoriales" HorizontalAlignment="Left" Height="73" Margin="272,215,0,0" VerticalAlignment="Top" Width="154"/>
+
     </Grid>
 </Window>
